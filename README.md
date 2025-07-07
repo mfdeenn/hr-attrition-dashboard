@@ -48,17 +48,17 @@ You can find the dataset in the `/data` folder or download it directly from the 
 ## 📷 Screenshots
 
 ### Executive Dashboard  
-![Executive Dashboard](./screenshots/executive-dashboard.png)
+![Executive Dashboard](./screenshots/Executive dashboard.png)
 
 ---
 
 ### Operational Analytics Dashboard  
-![Operational Analytics](./screenshots/operational-analytics-dashboard.png)
+![Operational Analytics](./screenshots/Operational Analytics Dashboard.png)
 
 ---
 
 ### Strategic Recommendations  
-![Strategic Recommendations](./screenshots/strategic-recommendations.png)
+![Strategic Recommendations](./screenshots/Strategic Recommendations.png)
 
 ---
 
