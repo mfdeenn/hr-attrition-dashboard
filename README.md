@@ -10,55 +10,54 @@ The dashboard is structured into **3 strategic pages**:
 
 ### 1. Executive Dashboard
 - Overall attrition rate
-- Headcount and attrition trend over time
-- Department-wise and gender-wise attrition
+- Headcount and attrition trends
+- Department-wise and gender-based breakdown
 
 ### 2. Operational Analytics Dashboard
-- Attrition by age, overtime, job satisfaction, and years at company
-- Detailed KPIs and segment-level analysis
-- Job level vs. attrition impact
+- Attrition by age, overtime, and job satisfaction
+- Attrition rate by years at company and job level
+- KPI cards and HR segment performance metrics
 
 ### 3. Strategic Recommendations
-- Actionable insights for improving employee retention
-- HR policy and intervention suggestions based on data patterns
+- Insights-based recommendations
+- Data-driven actions to reduce employee turnover
 
 ---
 
 ## 📁 Dataset
 
-> 📌 The dataset used in this project is a simulated HR dataset commonly used in analytics training.  
+> 📌 The dataset used is a public HR analytics dataset for learning purposes.  
 > Source: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 - Format: `.csv`
-- Size: ~200+ records
-- Key features: `Age`, `Attrition`, `Gender`, `JobSatisfaction`, `OverTime`, `YearsAtCompany`, `Department`, `JobLevel`, etc.
-
-You can find the dataset in the `/data` folder or download it directly from the [Kaggle link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+- Records: ~200+
+- Key columns: `Attrition`, `Age`, `Gender`, `JobRole`, `OverTime`, `JobSatisfaction`, `YearsAtCompany`, `Department`, `JobLevel`, etc.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- **Power BI** – For data modeling and dashboard creation
-- **DAX** – Used to build dynamic KPIs and calculated measures
-- **Power Query** – For data transformation and preprocessing
+- **Power BI** – Dashboard design, interactivity, and publishing
+- **DAX** – Calculated columns and measures
+- **Power Query** – Data transformation
+- **GitHub** – Project versioning and showcase
 
 ---
 
 ## 📷 Screenshots
 
 ### Executive Dashboard  
-![Executive Dashboard](./screenshots/executive-dashboard.png)
+![Executive Dashboard](./screenshotss/executive-dashboard.png)
 
 ---
 
 ### Operational Analytics Dashboard  
-![Operational Analytics](./screenshots/operational-analytics-dashboard.png)
+![Operational Analytics](./screenshotss/operational-analytics-dashboard.png)
 
 ---
 
 ### Strategic Recommendations  
-![Strategic Recommendations](./screenshots/strategic-recommendations.png)
+![Strategic Recommendations](./screenshotss/strategic-recommendations.png)
 
 ---
 
@@ -66,23 +65,23 @@ You can find the dataset in the `/data` folder or download it directly from the 
 
 1. Clone or download this repository.
 2. Open `HR Dashboard.pbix` using Power BI Desktop.
-3. If necessary, relink the data source (CSV file) in Power BI.
-4. Explore all three pages of the dashboard to view insights.
+3. Make sure the dataset (CSV) is in the correct path, or relink it in Power BI.
+4. Explore the three dashboard pages to gain insights.
 
 ---
 
 ## 📌 Key Insights
 
-- **High Attrition in Overtime Workers:** Employees with overtime tend to leave more often.
-- **Job Satisfaction is Crucial:** Lower job satisfaction is directly tied to higher attrition rates.
-- **Younger Employees Leave More Frequently:** Employees under 30 show a higher churn rate.
-- **Sales and HR are High-Risk Departments:** These departments need targeted retention strategies.
+- **Overtime and low job satisfaction** strongly correlate with high attrition.
+- **Employees under 30** show higher churn rates.
+- **Sales and HR** departments experience the most turnover.
+- Retention efforts should target specific job levels and satisfaction metrics.
 
 ---
 
 ## 🤝 Acknowledgments
 
-- [IBM HR Analytics Dataset – Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- [Kaggle - IBM HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - Microsoft Power BI Community
 
 ---
@@ -90,7 +89,7 @@ You can find the dataset in the `/data` folder or download it directly from the 
 ## 📬 Contact
 
 **Muftawu Nurudeen**  
-[LinkedIn](#) | [GitHub](#) | [Email](#)
+[LinkedIn](#) | [GitHub](https://github.com/mfdeenn) | [Email](#)
 
 ---
 
