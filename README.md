@@ -48,17 +48,17 @@ You can find the dataset in the `/data` folder or download it directly from the 
 ## 📷 Screenshots
 
 ### Executive Dashboard  
-![Executive Dashboard](./screenshots/Executive dashboard.png)
+![Executive Dashboard](./screenshots/executive-dashboard.png)
 
 ---
 
 ### Operational Analytics Dashboard  
-![Operational Analytics](./screenshots/Operational Analytics Dashboard.png)
+![Operational Analytics](./screenshots/operational-analytics-dashboard.png)
 
 ---
 
 ### Strategic Recommendations  
-![Strategic Recommendations](./screenshots/Strategic Recommendations.png)
+![Strategic Recommendations](./screenshots/strategic-recommendations.png)
 
 ---
 
@@ -87,5 +87,10 @@ You can find the dataset in the `/data` folder or download it directly from the 
 
 ---
 
+## 📬 Contact
 
-"# hr-attrition-dashboard" 
+**Muftawu Nurudeen**  
+[LinkedIn](#) | [GitHub](#) | [Email](#)
+
+---
+
